@@ -7,7 +7,6 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.concurrent.Semaphore;
 
-
 public class PulseAudio {
 	public static final String module = "PulseAudio";
 	public static final int ABORT_COUNTER_MAX = 500;
