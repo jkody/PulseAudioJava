@@ -7,7 +7,13 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.concurrent.Semaphore;
 
-
+/**
+ * @title "PulseAudio"
+ * 
+ * @version "0.1-1"
+ * @since September 2018 
+ *
+ */
 public class PulseAudio {
 	public static final String module = "PulseAudio";
 	public static final int ABORT_COUNTER_MAX = 500;
