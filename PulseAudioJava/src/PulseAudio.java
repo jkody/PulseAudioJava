@@ -10,7 +10,7 @@ import java.util.concurrent.Semaphore;
 /**
  * @title "PulseAudio"
  * 
- * @version "0.1-1"
+ * @version "0.1.1"
  * @since September 2018 
  *
  */
